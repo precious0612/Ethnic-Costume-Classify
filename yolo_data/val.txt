@@ -1,0 +1,11 @@
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/1494.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/1456.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/1479.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2713.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2710.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2711.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2701.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2719.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/1476.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/2744.jpg
+/Users/precious/Classification_of_ethnic_costumes/yolo_data/images/1472.jpg
